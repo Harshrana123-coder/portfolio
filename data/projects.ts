@@ -38,7 +38,7 @@ export const projects: Project[] = [
     ],
     github: "https://github.com/Harshrana123-coder/ResumeScanner",
     live: "#",
-    category: ["AI Projects", "LLM Projects"],
+    category: ["AI Projects" ],
     featured: true,
   },
   {
