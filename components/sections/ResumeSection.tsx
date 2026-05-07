@@ -85,10 +85,10 @@ export default function ResumeSection() {
             {/* Quick highlights */}
             <div className="space-y-3 mb-8">
               {[
-                { label: "Education", value: "B.E. CSE · Anna University · 2021–2025" },
-                { label: "Experience", value: "1+ Year · Full Stack & Freelance" },
+                { label: "Education", value: "B.Tech CSE · SRM Institute of Science and Technology · 2023–2027" },
+                { label: "Experience", value: "1+ Year · Full Stack Developer" },
                 { label: "Projects", value: "10+ Live Projects" },
-                { label: "Skills", value: "15+ Technologies" },
+                { label: "Skills", value: "10+ Technologies" },
               ].map(({ label, value }) => (
                 <div
                   key={label}
